@@ -2,7 +2,7 @@
   <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_logo_jimmy_jossue.png" height="80" align='left'> 
     ¡Hola! 
     </br>
-    Mi nombre es Jimmy Jossué, desarrollador android junior
+    Mi nombre es Jimmy Jossué, desarrollador android
 </H1> 
 <h3>Soy un joven licenciado en Ciencias y Tecnologías de la Información, entusiasmado por aprender cada vez más sobre el mundo de desarrollo de aplicaciones Android.</h3>
 <!--
